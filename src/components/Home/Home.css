@@ -1,0 +1,52 @@
+img{
+    width: 102%;
+    height: 100%;
+}
+.title{
+    text-align: center;
+    position: relative;
+    top: -370px;
+    font-size: 45px;
+}
+.search-item{
+    text-align: center;
+    position: relative;
+    top: -310px;
+}
+.input-field{
+    width: 500px;
+    border-radius: 20px;
+    height: 40px;
+    border: 1px solid grey;
+}
+.search-btn{
+    position: relative;
+    border: 1px solid grey;
+    height: 43px;
+    width: 130px;
+    border-radius: 20px;
+    border: 1px solid rgb(255, 0, 85);
+    background-color: rgb(255, 0, 85);
+    color: white;
+    font-size: 20px;
+    left: -70px;
+}
+.meal-category{
+    text-align: center;
+    position: relative;
+    top: -150px;
+}
+.meal-category a{
+    text-decoration: none;
+    margin-right: 40px;
+    font-size: 18px;
+    font-weight: 600;
+    color: rgb(255, 0, 85);
+}
+.meal-category a:hover{
+    border-bottom: 2px solid rgb(255, 0, 85);
+    color: rgb(0, 110, 255);
+}
+.offer-text{
+    margin-top: 70px;
+}

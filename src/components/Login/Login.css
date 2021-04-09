@@ -1,0 +1,27 @@
+.login-banner img{
+    width: 300px;
+    margin-bottom: 30px;
+}
+.login-banner{
+    position: relative;
+    border-radius: 5px;
+    padding: 20px;
+    text-align: center;
+    margin-top: -500px;
+    width: 460px;
+    left: 470px;
+}
+.login-method{
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+#google{
+    margin-bottom: 10px;
+    width: 400px;
+}
+#facebook{
+    width: 400px;
+}
+img{
+    margin-top: 30px;
+}

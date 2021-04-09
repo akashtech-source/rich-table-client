@@ -1,0 +1,41 @@
+.footer-container{
+    position:relative;
+    background-color: rgb(10, 9, 9);
+    top: 200px;
+    height: 300px;
+}
+.footer-container img{
+    height: 80px;
+    width: 25%;
+    position: relative;
+    top: 20px;
+}
+
+.footer-text1{
+    position: relative;
+    text-align: right;
+    left: -300px;
+
+}
+.footer-text2{
+    position: relative;
+    text-align: right;
+    left: -100px;
+    top: -160px;
+
+}
+.footer-text1 p{
+    color: white;
+}
+.footer-text2 p{
+    color: white;
+}
+.social-media{
+    margin-top: -200px;
+    margin-left: 30px;
+    color: white;
+    font-size: 40px;
+}
+.social-media i{
+    margin-right: 30px;
+}
