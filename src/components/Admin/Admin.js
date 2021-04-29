@@ -16,7 +16,7 @@ const Admin = () => {
             category: data.category,
             imageURL: imageURL
         };
-        const url = `http://localhost:5000/mealData`
+        const url = `https://morning-reef-97614.herokuapp.com/mealData`
 
         
         fetch(url, {

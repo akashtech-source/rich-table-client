@@ -10,7 +10,7 @@ const PlaceOrder = () => {
     const {id} = useParams();
     const [meals, setMeals] = useState([]);
     useEffect(()=> {
-        const url = `http://localhost:5000/placeorder/${id}`
+        const url = `https://morning-reef-97614.herokuapp.com/placeorder/${id}`
         fetch(url)
         .then(res => res.json())
         .then(data => setMeals(data[0]));

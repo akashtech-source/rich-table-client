@@ -6,7 +6,7 @@ import WhyUs from '../WhyUs/WhyUs';
 const Lunch = () => {
     const [meals, setMeals] = useState([]);
     useEffect(() => {
-        fetch('http://localhost:5000/meals')
+        fetch('https://morning-reef-97614.herokuapp.com/meals')
         .then(res => res.json())
         .then(data => setMeals(data));
     }, []);

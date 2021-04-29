@@ -11,7 +11,7 @@ const CheckOut = () => {
     const {id} = useParams();
     const [meals, setMeals] = useState([]);
     useEffect(()=> {
-        const url = `http://localhost:5000/checkout/${id}`
+        const url = `https://morning-reef-97614.herokuapp.com/checkout/${id}`
         fetch(url)
         .then(res => res.json())
         .then(data => setMeals(data[0]));
