@@ -4,7 +4,7 @@
 
 Are you hungry? Dont worry! The Rich Table is here with their delicious and yummy food that you give inner peace.
 
-This project was bootstrapped with [The Rich Table](https://the-rich-table.web.app)
+Checkout now => [The Rich Table](https://the-rich-table.web.app)
 
 Our Kitchen Update:
 " cream cheese, Sandwitch, Baked Chikcen, Egg Benedicts, Tarragon ,Thai, Chinese and Many more..."
