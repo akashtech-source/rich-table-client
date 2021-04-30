@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Welcome to THE RICH TABLE
 
 
 
